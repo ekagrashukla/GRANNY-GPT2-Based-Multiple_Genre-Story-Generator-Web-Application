@@ -12,13 +12,17 @@
 
 ## Sneak Peeks
 <h5> - Scary Story Generation</h5>
-<img src="demo/scary.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/scary.gif" alt="Scary Story Generation" height ="70%" width = "70%"/>
 <h5> - Funny Story Generation</h5>
-<img src="demo/funny.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/funny.gif" alt="Funny Story Generation" height ="70%" width = "70%"/>
 <h5> - Scifi Story Generation</h5>
-<img src="demo/scifi.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/scifi.gif" alt="Scifi Story Generation" height ="70%" width = "70%"/>
 <h5> - Other Useful Features</h5>
-<img src="demo/features.gif" alt="Demo" height ="70%" width = "70%"/>
+-- Narrate Stories using Text to Speech.
+-- Download Stories as Text files.
+-- Get a globally sharable URL and QR code to share stories with anyone.
+-- Get Suggestions for possible Grammatical/Spelling errors.
+-- Add your generated stories to a publicly accessible "Wall Of Stories".
 
 ## Technologies
 
