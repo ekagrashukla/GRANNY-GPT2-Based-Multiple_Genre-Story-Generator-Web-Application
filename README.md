@@ -18,11 +18,13 @@
 <h5> - Scifi Story Generation</h5>
 <img src="demo/scifi.gif" alt="Scifi Story Generation" height ="70%" width = "70%"/>
 <h5> - Other Useful Features</h5>
--- Narrate Stories using Text to Speech.
--- Download Stories as Text files.
--- Get a globally sharable URL and QR code to share stories with anyone.
--- Get Suggestions for possible Grammatical/Spelling errors.
--- Add your generated stories to a publicly accessible "Wall Of Stories".
+<ul>
+  <li> Narrate Stories using Text to Speech.</li>
+  <li> Download Stories as Text files.</li>
+  <li> Get a globally sharable URL and QR code to share stories with anyone.</li>
+  <li> Get Suggestions for possible Grammatical/Spelling errors.</li>
+  <li> Add your generated stories to a publicly accessible "Wall Of Stories".</li>
+</ul>
 
 ## Technologies
 
