@@ -12,13 +12,13 @@
 
 ## Sneak Peeks
 <h5> - Scary Story Generation</h5>
-<img src="assets/scary.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/scary.gif" alt="Demo" height ="70%" width = "70%"/>
 <h5> - Funny Story Generation</h5>
-<img src="assets/funny.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/funny.gif" alt="Demo" height ="70%" width = "70%"/>
 <h5> - Scifi Story Generation</h5>
-<img src="assets/scifi.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/scifi.gif" alt="Demo" height ="70%" width = "70%"/>
 <h5> - Other Useful Features</h5>
-<img src="assets/features.gif" alt="Demo" height ="70%" width = "70%"/>
+<img src="demo/features.gif" alt="Demo" height ="70%" width = "70%"/>
 
 ## Technologies
 
