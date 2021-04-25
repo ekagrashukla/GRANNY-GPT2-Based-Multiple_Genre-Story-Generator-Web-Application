@@ -24,6 +24,7 @@
   <li> Get a globally sharable URL and QR code to share stories with anyone.</li>
   <li> Get Suggestions for possible Grammatical/Spelling errors.</li>
   <li> Add your generated stories to a publicly accessible "Wall Of Stories".</li>
+  <li> Specify a word limit for your story.</li>
 </ul>
 
 ## Technologies
