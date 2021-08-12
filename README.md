@@ -39,7 +39,7 @@
   - [CSS] - For Styling
   - [JavaScript] - For adding Functionality
 
-## Getting Started
+## Make it Yours
 
 #### Clone the project
 
@@ -56,4 +56,6 @@ cd GRANNY-GPT2-Based-Multiple_Genre-Story-Generator-Web-Application
 # Uncomment the finetuning cells to finetune the model based on the text-corpus data provided
 # Click on the Ngrok URL generated at the end of execution of last cell to access the Web App
 ```
+
+#### Please Star the Repository, if you find it interesting. 
 
